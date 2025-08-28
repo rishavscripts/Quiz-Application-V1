@@ -61,10 +61,4 @@ A simple, scalable Monolithic Quiz Application built with Spring Boot. This app 
 3. Build and run the Spring Boot application.
 4. Use Postman or any API client to interact with endpoints.
 
-## Acknowledgments
-
-Thanks to Madam [Insert Madam's Name] for support and guidance throughout this project.
-
----
-
 Feel free to contribute or raise issues. Enjoy quizzing!
